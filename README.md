@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**surajugale12/surajugale12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Suraj Ugale, a passionate developer focused on creating innovative solutions and exploring the world of technology. Always eager to learn and share knowledge with the community!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a budding software engineer with a keen interest in Python programming and chatbot development. Currently, I'm working on personal projects, including my latest creation, [Agrichatbot](https://github.com/surajugale12/Agrichatbot). While I'm still building my portfolio, I'm committed to continuous learning and growth in the tech field.
+
+## Skills & Technologies
+
+py,html,css,cpp,js,c
+
+## Top Projects
+
+- [Agrichatbot](https://github.com/surajugale12/Agrichatbot)  
+  **Description:** A chatbot designed to assist users with agricultural queries.  
+  **Stars:** 0  
+  **Language:** Python  
+  **Forks:** 0  
+  **Open Issues:** 0
+
+## GitHub Stats
+
+🟢 **Public Repositories:** 1  
+🟢 **Followers:** 0  
+🟢 **Following:** 0  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajugale12&show_icons=true&theme=radical)
+
+## Recent Activity
+
+Here are my latest GitHub activities:  
+- Created repository [Agrichatbot](https://github.com/surajugale12/Agrichatbot)  
+- Pushed code changes to main branch of Agrichatbot.
+
+## Latest Blog Posts
+
+No blog posts available yet, but stay tuned for updates!
+
+## Connect with Me
+
+{}
