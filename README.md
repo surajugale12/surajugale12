@@ -8,24 +8,19 @@ I'm a budding software engineer with a keen interest in Python programming and c
 
 ## Skills & Technologies
 
-py,html,css,cpp,js,c
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,cpp,js,c&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [Agrichatbot](https://github.com/surajugale12/Agrichatbot)  
-  **Description:** A chatbot designed to assist users with agricultural queries.  
-  **Stars:** 0  
-  **Language:** Python  
-  **Forks:** 0  
-  **Open Issues:** 0
+
 
 ## GitHub Stats
-
 🟢 **Public Repositories:** 1  
 🟢 **Followers:** 0  
 🟢 **Following:** 0  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajugale12&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajugale12&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -38,5 +33,3 @@ Here are my latest GitHub activities:
 No blog posts available yet, but stay tuned for updates!
 
 ## Connect with Me
-
-{}
